@@ -1,2 +1,2 @@
 # ExecuteCommandAndShowOutputUsingPipe
-Program to execute command and show its output using pipe
+Program to execute command and show it's output using pipe
